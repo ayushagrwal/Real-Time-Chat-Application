@@ -1,0 +1,2 @@
+# Real-Time-Chat-Application
+This project is a real-time chat application that allows users to communicate with each other in real-time. ReactJS is used for the frontend user interface, allowing for a responsive and dynamic user experience. NodeJS and ExpressJS are used in the backend logic and routing, allowing for seamless communication between the frontend and the server. Socket.io is used to handle real-time communication between the different clients connected to the chat app, allowing for instant messaging.
